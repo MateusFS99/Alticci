@@ -1,0 +1,6 @@
+[submodule "Alticci-SpringBoot"]
+	path = Alticci-SpringBoot
+	url = https://github.com/MateusFS99/Alticci-SpringBoot
+[submodule "Alticci-Angular"]
+	path = Alticci-Angular
+	url = https://github.com/MateusFS99/Alticci-Angular
