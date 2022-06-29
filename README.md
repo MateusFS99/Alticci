@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/Alticce)](https://github.com/MateusFS99/Alticce/commits/main)
+[![Updated Badge](https://badges.pufler.dev/updated/MateusFS99/Alticci)](https://github.com/MateusFS99/Alticci/commits/main)
 
 <h1 align="center">Alticci Sequence App</h1>
 
